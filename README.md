@@ -1,6 +1,10 @@
 Clash Rule By Cth
 =============
 
+**Clash Profile**
+-------------
+基於 https://github.com/shangguanhongxin/for-surge 二次細分
+
 
 **tencent.list**
 -------------
