@@ -17,5 +17,5 @@ Clash Rule By Cth
 
 **Credit**
 -------------
-https://github.com/shangguanhongxin <br />
-https://github.com/ConnersHua <br />
+[shangguanhongxin](https://github.com/shangguanhongxin) <br />
+[ConnersHua](https://github.com/ConnersHua) <br />
